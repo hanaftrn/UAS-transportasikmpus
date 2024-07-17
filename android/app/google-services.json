@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "182383081018",
+    "project_id": "apk-kampus",
+    "storage_bucket": "apk-kampus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182383081018:android:6003a723b4ab936b552703",
+        "android_client_info": {
+          "package_name": "com.example.apk_kampus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrGEdWKxNGHiGTp94qOWH4ERwsIEATf4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
